@@ -6401,6 +6401,13 @@ let cards = [
     author: 'SEN-RAD',
     githubLink: 'https://github.com/SEN-RAD'
   },
+  {
+    artName: 'nothinh yet',
+    pageLink: './Art/Joy/LHepp/triangle.html',
+    imageLink: './Art/Joy/LHepp/triangle.gif',
+    author: 'LULU255',
+    githubLink: 'https://github.com/LULU255'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
